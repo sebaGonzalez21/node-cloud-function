@@ -1,0 +1,15 @@
+{
+    "name": "cloud-function",
+    "version": "1.0.0",
+    "description": "Test of Cloud funtion",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Sebastian Gonzalez",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1",
+        "log4js": "^6.2.0"
+    }
+}
