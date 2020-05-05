@@ -22,3 +22,11 @@ To deploy run
     gcloud functions deploy <NAME> --runtime nodejs8 --trigger-http --entry-point app
 
 Where `<NAME>` is the name that you wish to give the function. e.g. `first-function`.
+
+## Deploy Cloud Function http
++ gcloud functions deploy myFunction --trigger-http --runtime=nodejs8
++ https://medium.com/@jsoverson/how-to-deploy-node-js-functions-to-google-cloud-8bba05e9c10a
++ https://www.npmjs.com/package/@google-cloud/functions-framework
+
+## Simular Ambiente Local http
++ npx @google-cloud/functions-framework --target=InputVariables

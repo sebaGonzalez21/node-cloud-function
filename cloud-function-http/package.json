@@ -1,0 +1,15 @@
+{
+    "name": "cloud-function-http",
+    "version": "1.0.0",
+    "description": "Cloud function http",
+    "scripts": {
+        "start": "functions-framework --target=listUser",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Sebastian Gonzalez",
+    "license": "MIT",
+    "dependencies": {
+        "@google-cloud/functions-framework": "^1.5.1",
+        "log4js": "^6.2.1"
+    }
+}
