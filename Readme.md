@@ -33,5 +33,5 @@ Where `<NAME>` is the name that you wish to give the function. e.g. `first-funct
 
 ## Validaciones de Schemas y Generador de Schemas
 + https://www.npmjs.com/package/express-json-validator-middleware
-+ https://www.liquid-technologies.com/online-json-to-schema-converter
++ https://extendsclass.com/json-schema-validator.html
 + https://github.com/JouzaLoL/express-json-validator-middleware
