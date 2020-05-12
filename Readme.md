@@ -30,3 +30,8 @@ Where `<NAME>` is the name that you wish to give the function. e.g. `first-funct
 
 ## Simular Ambiente Local http
 + npx @google-cloud/functions-framework --target=InputVariables
+
+## Validaciones de Schemas y Generador de Schemas
++ https://www.npmjs.com/package/express-json-validator-middleware
++ https://www.liquid-technologies.com/online-json-to-schema-converter
++ https://github.com/JouzaLoL/express-json-validator-middleware
