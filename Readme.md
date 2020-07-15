@@ -28,10 +28,10 @@ Where `<NAME>` is the name that you wish to give the function. e.g. `first-funct
 + https://medium.com/@jsoverson/how-to-deploy-node-js-functions-to-google-cloud-8bba05e9c10a
 + https://www.npmjs.com/package/@google-cloud/functions-framework
 
-## Simular Ambiente Local http
+## Simulate Local Environment http
 + npx @google-cloud/functions-framework --target=InputVariables
 
-## Validaciones de Schemas y Generador de Schemas
+## Schemas Validations and Generators
 + https://www.npmjs.com/package/express-json-validator-middleware
 + https://extendsclass.com/json-schema-validator.html
 + https://github.com/JouzaLoL/express-json-validator-middleware
