@@ -24,7 +24,9 @@ To deploy run
 Where `<NAME>` is the name that you wish to give the function. e.g. `first-function`.
 
 ## Deploy Cloud Function http
-+ gcloud functions deploy myFunction --trigger-http --runtime=nodejs8
+```
+gcloud functions deploy myFunction --trigger-http --runtime=nodejs8
+```
 + https://medium.com/@jsoverson/how-to-deploy-node-js-functions-to-google-cloud-8bba05e9c10a
 + https://www.npmjs.com/package/@google-cloud/functions-framework
 
