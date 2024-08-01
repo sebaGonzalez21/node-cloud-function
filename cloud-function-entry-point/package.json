@@ -9,7 +9,7 @@
     "author": "Sebastian Gonzalez",
     "license": "MIT",
     "dependencies": {
-        "express": "^4.17.3",
+        "express": "^4.19.2",
         "log4js": "^6.2.0"
     }
 }
